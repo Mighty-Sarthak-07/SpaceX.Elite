@@ -5,7 +5,7 @@ import BgVideo from "./assets/bg.mp4";
 import Footer from "./components/Footer.jsx";
 import Hero from "./components/Hero.jsx";
 import HeroCard from "./components/HeroCard.jsx";
-import Navbar from "./components/navbar.jsx";
+import Navbar from "./components/Navbar.jsx";
 import Rapidscat from "./components/Rapidscat.jsx";
 import Satelite from "./components/Satelite.jsx";
 
